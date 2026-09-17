@@ -1,0 +1,17 @@
+{
+  "name": "EDIT AURA | Next-Gen Digital Marketing, Branding & AI Growth Agency",
+  "short_name": "EDIT AURA",
+  "description": "We don't just market brands. We build their aura. Creative minds, digital systems, business growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

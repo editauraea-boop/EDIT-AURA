@@ -1,0 +1,8 @@
+{
+  "name": "EDIT AURA — Digital Growth Agency",
+  "description": "Premium digital growth, branding, AI marketing, content creation \u0026 business automation agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
